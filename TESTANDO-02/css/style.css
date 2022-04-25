@@ -1,0 +1,30 @@
+body{
+    background-color: #DEA057;
+}
+.img{
+    text-align: center;
+    margin: 10px;
+}
+.container{
+    width: 640px;
+    height: 360px;
+    position: relative;
+    max-width: 1000px;
+    margin: auto;
+}
+.video{
+    width: 100%;
+}
+.controle{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    text-align: center;
+}
+.btm{
+    height: 60px;
+    padding: 10px;
+    position: relative;
+    top: 100%;
+}
